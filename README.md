@@ -1,14 +1,25 @@
-# Dashboard de anúncios de carros
+# 🚗 Car Analysis Dashboard
 
-Este projeto é um aplicativo web desenvolvido com Streamlit para visualizar dados de anúncios de carros usados.
+This project is a web application built using Streamlit to analyze car sales data.
 
-## Funcionalidades
-- Exibição de uma amostra do conjunto de dados
-- Criação de histograma da coluna `odometer`
-- Criação de gráfico de dispersão entre `price` e `odometer`
+## 📊 Features
 
-## Tecnologias utilizadas
-- Python
-- Pandas
-- Plotly Express
-- Streamlit
+* Display initial dataset
+* Interactive histogram of odometer values
+* Interactive scatter plot (price vs odometer)
+* Built using pandas, plotly-express, and streamlit
+
+## 🌐 Live App
+
+ https://car-analysis-project4.onrender.com/
+
+## 💻 GitHub Repository
+
+ https://github.com/jroy102488-glitch/car-analysis-project4
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* Plotly Express
+* Streamlit
